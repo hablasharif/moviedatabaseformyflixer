@@ -1,4 +1,4 @@
-BeautifulSoup
+BeautifulSoup4
 requests
 pandas
 tqdm
